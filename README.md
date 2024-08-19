@@ -14,4 +14,8 @@ pip install speechrecognition sounddevice pyaudio
 ```
  
 
+Reference document: 
+https://github.com/Uberi/speech_recognition/blob/master/reference/library-reference.rst
+
+
 
