@@ -1,6 +1,10 @@
 # Google Speech Recognition on Raspberry Pi
 Python program for testing the speech recognition package on Raspberry Pi
 
+Please watch this YouTube video tutorial to learn more about this code:    
+https://youtu.be/SRyGs7Yxoyk
+
+
 At first, install the following packages on Raspberry Pi for working with audio data.  
 
 ```console
