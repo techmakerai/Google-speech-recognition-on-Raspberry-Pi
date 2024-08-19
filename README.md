@@ -18,7 +18,7 @@ pip install speechrecognition sounddevice pyaudio
 ```
  
 
-Reference document for Python speech recognition package: 
+Reference webpage for Python speech recognition package:     
 https://github.com/Uberi/speech_recognition/blob/master/reference/library-reference.rst
 
 
